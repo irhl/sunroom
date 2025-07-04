@@ -1,0 +1,14 @@
+sunroom is my emacs configuration, i have copied it here since it was too large to work on my dotfiles.
+I'll be filling more of this README later, check back soon!
+
+fl.el - mood room (themes)
+fx.el - art class/workshop
+
+fm.el - my dired tools
+fo.el - my universal tools
+fs.el - my global statusline
+kb.el - my edit system (vim-like modal editing)
+
+
+
+
