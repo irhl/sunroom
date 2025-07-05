@@ -7,7 +7,7 @@ if [ "$1" = "--restart" ]; then
 fi
 
 if ! pgrep -f 'emacs --daemon' > /dev/null; then
-    /bin/emacs --daemon --init-directory="$HOME/.config/emacs.d/"
+    /bin/emacs --daemon --init-directory="$HOME/.emacs.d/"
 fi
 
 #emacsclient -c -e '(switch-to-buffer "*scratch*")'

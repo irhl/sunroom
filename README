@@ -3,7 +3,12 @@ I'll be filling more of this README later, check back soon!
 
 INSTALLATION
 you can put the files in ~/.emacs.d
-when first launching, you should wait for the whitescreen to disappear
+then move the shell script to your bin directory.
+
+use the shell script to execute emacs, so it does not do the startup
+process everytime you launch emacs unless the process is not running.
+
+in the first launch, you should wait for the whitescreen to disappear
 behind the whitescreen thing is just emacs installing the packages and
 finishing the startup process.
 
