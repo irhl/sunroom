@@ -8,3 +8,8 @@ fm.el - my dired tools
 fo.el - my universal tools
 fs.el - my global statusline
 kb.el - my edit system (vim-like modal editing)
+
+when installing my config, you can put it in ~/.emacs.d
+when first launching, you should wait for the whitescreen to disappear
+behind the whitescreen thing is just emacs installing the packages and
+finishing the startup process.
