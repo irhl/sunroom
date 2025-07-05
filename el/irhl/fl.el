@@ -1,11 +1,6 @@
 ;;; fl.el -*- lexical-binding: t -*-
 ;; flowershop theme by irhl
 
-;; a list of fonts that i use for this theme
-;; FontAwesome         for the cloud icon spacing
-;; Maple Mono NF       for the cloud icon symbol
-;; Aporetic Sans Mono  for universal font
-
 ;; 06-07-2025 06:11:45 AM PST
 ;; defface isn't needed.
 ;; face-spec-set appears to assign the faces that have not
