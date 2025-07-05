@@ -8,9 +8,9 @@ behind the whitescreen thing is just emacs installing the packages and
 finishing the startup process.
 
 FONTS
-;; FontAwesome         for the cloud icon spacing
-;; Maple Mono NF       for the cloud icon symbol
-;; Aporetic Sans Mono  for the default font
+FontAwesome         for the cloud icon spacing
+Maple Mono NF       for the cloud icon symbol
+Aporetic Sans Mono  for the default font
 
 fl.el - mood room (themes)
 fx.el - art class/workshop
